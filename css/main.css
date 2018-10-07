@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.bg-darkbg{
+    background: url(../img/headbg.jpeg)center/cover fixed no-repeat;
+}
+#title{
+    font-size: 80px;
+    }
+.max-viewport{
+    min-height: 100vh;
+        }
+.text-underline{
+    width: 100px;
+    border: 1px solid #ffd282;
+    margin: 0 auto 0 auto;
+    
+}
+.about-image, 
+ #progress{
+    background: url(../img/about.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
